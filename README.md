@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="1778805399086.png" alt="Logo" style="width:100px; height:100px; border-radius: 50%; object-fit: cover;" />
+  <img src="1778805399086.png"  alt="Company Logo" width="150" height="50" />
   
   <h3>🚀 Full-Stack Developer | AI Architect | 3D Web Specialist</h3>
   
