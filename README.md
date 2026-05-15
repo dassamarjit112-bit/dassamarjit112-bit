@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://kommodo.ai/i/P40baQeWkBLNyKJ7qTic" width="100%" />
+  <img src="https://ibb.co/Y7Zs0bQp" width="100%" />
   
   <h3>🚀 Full-Stack Developer | AI Architect | 3D Web Specialist</h3>
   
