@@ -1,20 +1,5 @@
 <div align="center">
-  <div class="logo-circle">
-  <img src="1778805399086.png" width="100%" />
-  <style>
-  .logo-circle {
-    width: 100px;
-    height: 100px;
-    background-color: #4CAF50;
-    border-radius: 50%; /* Makes it a circle */
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    color: white;
-    font-weight: bold;
-  }
-</style>
-  </div>
+  <img src="1778805399086.png" alt="Logo" style="width:100px; height:100px; border-radius: 50%; object-fit: cover;" />
   
   <h3>🚀 Full-Stack Developer | AI Architect | 3D Web Specialist</h3>
   
