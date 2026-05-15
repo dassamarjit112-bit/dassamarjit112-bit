@@ -1,12 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Samarjit%20Das&fontSize=80&animation=fadeIn" width="100%" />
+  <img src="https://kommodo.ai/i/P40baQeWkBLNyKJ7qTic?type=soft&color=auto&height=200&section=header&text=Samarjit%20Das&fontSize=80&animation=fadeIn" width="100%" />
   
   <h3>🚀 Full-Stack Developer | AI Architect | 3D Web Specialist</h3>
   
   <p align="center">
     <a href="https://sd-web-developer.vercel.app"><b>Portfolio</b></a> • 
-    <a href="https://t.me/SPRINT_REFER_BOT"><b>Telegram</b></a> • 
-    <a href="mailto:your-email@example.com"><b>Email</b></a>
+    <a href="dassamarjit112@gmail.com"><b>Email</b></a>
   </p>
 </div>
 
