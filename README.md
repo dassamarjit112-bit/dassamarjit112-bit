@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://kommodo.ai/i/P40baQeWkBLNyKJ7qTic?type=soft&color=auto&height=200&section=header&text=Samarjit%20Das&fontSize=80&animation=fadeIn" width="100%" />
+  <img src="https://kommodo.ai/i/P40baQeWkBLNyKJ7qTic" width="100%" />
   
   <h3>🚀 Full-Stack Developer | AI Architect | 3D Web Specialist</h3>
   
